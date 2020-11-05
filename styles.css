@@ -1,0 +1,109 @@
+body
+{
+    background-color: #9CE8DE;
+    font-family: 'Yanone Kaffeesatz', monospace;
+    font-size: 20px;
+    height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+p
+{
+  color: #5D968F;
+  margin-left: 1%;
+}
+
+h1
+{
+  font-size: 50px;
+  font-family: 'Dancing Script';
+  color: #F9B4B2;
+  margin-left: 1%;
+}
+
+aside h1
+{
+  font-size: 50px;
+  font-weight: bolder;
+  color: #F1A09D;
+  text-align: center;
+}
+
+aside p
+{
+  color: #F1A09D;
+  font-size: 20px;
+  font-family: 'Yanone Kaffeesatz', monospace;
+  text-align: center;
+}
+
+h2
+{
+  font-size: 30px;
+  color: #E08C7F;
+  margin-left: 1%;
+}
+
+aside
+{
+  font-family: 'Yanone Kaffeesatz', monospace;
+  font-size: 20px;
+  background-color: #9CE8DE;
+  text-align: center;
+  width: 30%;
+  height: 100%;
+  float: left;
+}
+
+aside ul li a
+{
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+  text-align: center;
+}
+
+aside ul
+{
+  color: white;
+  text-align: center;
+  list-style-type: none;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#skills ul
+{
+  color: #5D968F;
+}
+
+
+
+.pic
+{
+    width: 200px;
+    height: 150px;
+    padding: 5%;
+    border-radius: 100px;
+}
+
+
+.socials img
+{
+    width: 25px;
+    padding: 1.5%;
+}
+
+.container
+{
+  background-color: #fff;
+  overflow: hidden;
+}
+
+main
+{
+  width: 70%;
+  background-color: #d9f0f3;
+  float: right;
+}
