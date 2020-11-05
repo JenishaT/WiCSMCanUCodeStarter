@@ -76,6 +76,7 @@ main /*This block is the general styling for the main section of the site*/
   width: 70%;
   background-color: #ffffff;
   float: right; /*This makes the main section stay on the right*/
+  height: 100vh;
   
 }
 
